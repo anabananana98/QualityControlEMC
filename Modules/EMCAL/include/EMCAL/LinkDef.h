@@ -43,10 +43,12 @@
 
 #pragma link C++ class o2::quality_control_modules::emcal::CalibCheck + ;
 #pragma link C++ class o2::quality_control_modules::emcal::TriggerTask + ;
+#pragma link C++ class o2::quality_control_modules::emcal::NumPatchesPerFastORCheck + ;
 
 #pragma link C++ class o2::quality_control_modules::emcal::NPhysTriggCheck + ;
  
 #pragma link C++ class o2::quality_control_modules::emcal::CellOccupancyCheck + ;
  
 #pragma link C++ class o2::quality_control_modules::emcal::CellTimeCalibCheck + ;
+
 #endif
