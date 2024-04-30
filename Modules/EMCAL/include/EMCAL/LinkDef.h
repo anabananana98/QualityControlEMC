@@ -47,8 +47,6 @@
 
 #pragma link C++ class o2::quality_control_modules::emcal::NPhysTriggCheck + ;
  
-#pragma link C++ class o2::quality_control_modules::emcal::CellOccupancyCheck + ;
- 
 #pragma link C++ class o2::quality_control_modules::emcal::CellTimeCalibCheck + ;
 
 #endif
